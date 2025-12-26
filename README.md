@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=1yzu)
 thanks rat hito for the tutorial. ill make my github even uglier with your help.
 <img src= "https://files.catbox.moe/yjkzc5.jpg" width="3000000" height="3000000"/>
 heard it here first folks.
