@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=1yzu&color=babbcf&style=flat-square&label=꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=1yzu&color=babbcf&style=flat-square&label=꒰ა 𓂋 ໒꒱)
 
 thanks rat hito for the tutorial. ill make my github even uglier with your help.
 <img src= "https://files.catbox.moe/yjkzc5.jpg" width="3000000" height="3000000"/>
